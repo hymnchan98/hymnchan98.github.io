@@ -50,7 +50,7 @@ h2 {
   text-decoration: underline;
 }
 .profile-pic {
-  width: 150px;        /* You can change this number */
+  width: 200px;        /* You can change this number */
   height: auto;        /* Keeps proportions */
   display: block;
   margin: 0 auto 1rem; /* Centers the image */
