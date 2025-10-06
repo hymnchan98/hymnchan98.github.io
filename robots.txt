@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hymnchan98.github.io/sitemap.xml
